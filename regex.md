@@ -42,3 +42,8 @@ Welcome to the Regex Magic: Matching Phone Numbers README! In this guide, we'll 
 ## Conclusion
 
 With this enchanting regex at your disposal, you'll master the art of identifying and validating phone numbers effortlessly. Let the regex magic begin! 
+
+## Resources
+ - [Regexr](https://regexr.com/)
+ - [ihateregex](https://ihateregex.io/cheatsheet)
+
